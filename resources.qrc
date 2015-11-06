@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/BirdChooser" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
